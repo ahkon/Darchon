@@ -1,5 +1,5 @@
 # Darchon
-A [theme](https://autohotkey.com/boards/viewtopic.php?f=61&t=69) for [SciTE4AutoHotkey](http://fincs.ahk4.net/scite4ahk).
+A [theme](https://autohotkey.com/boards/viewtopic.php?f=61&t=69) for [SciTE4AutoHotkey](https://www.autohotkey.com/scite4ahk/).
 
 ![Preview](editor.preview.png "Preview")
 
